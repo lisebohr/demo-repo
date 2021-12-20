@@ -1,0 +1,21 @@
+Source,Source_Mapped,value,_comment,Datasource
+BIOMASS,BIOMASS,230,,IPCC 2014
+FOSSIL BROWN COAL/LIGNITE,COAL,820,,IPCC 2014
+FOSSIL COAL-DERIVED GAS,GAS,490,,IPCC 2014
+FOSSIL GAS,GAS,490,,IPCC 2014
+FOSSIL HARD COAL,COAL,820,,IPCC 2014
+FOSSIL OIL,OIL,650,UK Parliamentary Office of Science and Technology (2006) 'Carbon footprint of electricity generation',UK POST 2014
+FOSSIL OIL SHALE,OIL,650,UK Parliamentary Office of Science and Technology (2006) 'Carbon footprint of electricity generation',UK POST 2014
+FOSSIL PEAT,UNKNOWN,700,assume conventional,"assumes thermal (coal, gas, oil or biomass)"
+GEOTHERMAL,GEOTHERMAL,38,,IPCC 2014
+HYDRO PUMPED STORAGE,HYDRO,24,,IPCC 2014
+HYDRO RUN-OF-RIVER AND POUNDAGE,HYDRO,24,,IPCC 2014
+HYDRO WATER RESERVOIR,HYDRO,24,,IPCC 2014
+MARINE,UNKNOWN,700,assume conventional,"assumes thermal (coal, gas, oil or biomass)"
+NUCLEAR,NUCLEAR,12,,IPCC 2014
+OTHER,UNKNOWN,700,assume conventional,"assumes thermal (coal, gas, oil or biomass)"
+OTHER RENEWABLE,UNKNOWN,700,assume conventional,"assumes thermal (coal, gas, oil or biomass)"
+SOLAR,SOLAR,45,,IPCC 2014
+WASTE,UNKNOWN,700,assume conventional,"assumes thermal (coal, gas, oil or biomass)"
+WIND OFFSHORE,WIND,11,,IPCC 2014
+WIND ONSHORE,WIND,11,,IPCC 2014
