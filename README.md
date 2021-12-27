@@ -13,7 +13,8 @@ Two jupyter notebooks:
 - **01_Join&Calc** Intention was to join, aggregate, and calculate proportion mix and carbon intensity. I had an issue with the join, so I completed the in Alteryx. 
 
 Output 
-- **lteryxJoin&Calc.csv** Output from Alteryx including Proportion and carbon intensity measures
+- **EM_Case.db** SQLite database containing the two input files in clean versions
+- **AlteryxJoin&Calc.csv** Output from Alteryx including Proportion and carbon intensity measures
 
 Visuals
 - **Visualisations for slides__6654.twbr** Tableau Workbook containing the visuals presented in slidedeck 
